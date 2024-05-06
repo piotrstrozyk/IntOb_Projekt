@@ -9,3 +9,5 @@
 
 #Rozpoznawanie tekstu z obrazu
 
+#Rozróżnianie tekstu AI od napisanego przez człowieka
+
