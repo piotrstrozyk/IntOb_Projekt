@@ -8,4 +8,4 @@
 //Problemy ze streamowaniem obrazu z telefonu na komputer szkolny
 
 
-#Rozpoznawanie gestów na podstawie odczytów z opaski EMG
+#Klasyfikacja Samolotów Militarnych
